@@ -179,7 +179,7 @@ The route required a combination of forward motion and lateral adjustments befor
 
 For safety, all experiments were conducted under researcher supervision, and participants received a short practice session before beginning the evaluation.
 
-<img src="drone_layout.png" width="700">
+<img src="droneTELLO_layout.png" width="700">
 
 ---
 ## Experimental Procedure
