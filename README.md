@@ -9,9 +9,9 @@ The repository provides:
 - User study materials
 
 experiment/
-    robot_control/
-    health_sensing/
-    user_study/
+- robot_control
+- health_sensing
+- user_study
 
 hardware/
     (to be released upon publication)
